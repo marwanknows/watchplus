@@ -33,7 +33,7 @@ export class Part4Component implements OnInit {
     },
     {
       icon: 'fas fa-headset',
-      title: 'watchplus@gmail.com',
+      title: 'watchplusiptv@gmail.com',
       link: 'https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=Watchplusiptv@gmail.com&su=watchplus-iptv&body=hi'
 
     },
